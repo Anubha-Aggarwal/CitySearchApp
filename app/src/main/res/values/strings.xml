@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CitySearchApp</string>
+    <string name="city_name">City</string>
+    <string name="state_name">State</string>
+    <string name="country_name">Country</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="back">Back</string>
+</resources>
